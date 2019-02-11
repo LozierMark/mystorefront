@@ -1,12 +1,13 @@
 body {
-    background-image: url(./assets/adult-bar-bar-cafe-1137745.jpg);
+    background-image: url("./Assets/pexels-photo-1251175.jpeg");
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
-    color: white;
+    color: rgba(1, 0, 2, 0.884)
   
 }
 #header
 {
     background-color: transparent
+
 }
